@@ -1,0 +1,6 @@
+C:\Dashboard\SecurityLayer\bin\Debug\SecurityLayer.dll
+C:\Dashboard\SecurityLayer\bin\Debug\SecurityLayer.pdb
+C:\Dashboard\SecurityLayer\obj\Debug\SecurityLayer.csproj.CoreCompileInputs.cache
+C:\Dashboard\SecurityLayer\obj\Debug\SecurityLayer.dll
+C:\Dashboard\SecurityLayer\obj\Debug\SecurityLayer.pdb
+C:\Dashboard\SecurityLayer\obj\Debug\SecurityLayer.csprojAssemblyReference.cache

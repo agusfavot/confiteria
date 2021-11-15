@@ -1,0 +1,13 @@
+C:\Dashboard\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Dashboard\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Dashboard\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Dashboard\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Dashboard\BusinessLayer\bin\Debug\SecurityLayer.dll
+C:\Dashboard\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Dashboard\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Dashboard\BusinessLayer\bin\Debug\SecurityLayer.pdb
+C:\Dashboard\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Dashboard\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Dashboard\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Dashboard\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Dashboard\BusinessLayer\obj\Debug\BusinessLayer.pdb
